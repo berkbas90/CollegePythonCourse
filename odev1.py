@@ -1,4 +1,5 @@
-sifre =input("Şifreyi girin: ")
+# sifre =input("Şifreyi girin: ")
+sifre = "1752"
 sifreoutput=""
 basamak=0
 halve1=""
