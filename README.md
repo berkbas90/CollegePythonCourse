@@ -1,1 +1,1 @@
-# CollegePythonCourse
+1- Ödev1 dosyasında bir veri transferinde 4 haneli rakamsal veriler transfer edilmektedir. Verilerin her bir basamağına 7 eklenip 10'a göre modu alınmakta ve birinci rakam ile üçüncü rakam, ikinci rakam ile dördüncü rakam yer değiştirmektedir. Buna göre şifreli veri ne olmalıdır ( 1752 -> 4982 )
