@@ -1,6 +1,6 @@
 1- Ödev1 dosyasında bir veri transferinde 4 haneli rakamsal veriler transfer edilmektedir. Verilerin her bir basamağına 7 eklenip 10'a göre modu alınmakta ve birinci rakam ile üçüncü rakam, ikinci rakam ile dördüncü rakam yer değiştirmektedir. Buna göre şifreli veri ne olmalıdır ( 1752 -> 4982 )
 
-2- 
+2- Ödev 2 de
       OCAK ŞUBAT MART
 2020  300  500  250
 2021  380  470  350
