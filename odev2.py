@@ -29,10 +29,29 @@ print("Aritmetik Ortalama",sum/len(dizi))
 # Cevap 3
 
 sum=0
-#print(dizi[0][2],dizi[2][2],dizi[3][2],dizi[5][2],dizi[6][2],dizi[8][2])
 count=0
 for i in range(len(dizi)):
-    if(i%5==0 or i==2 or i%3==0 or i==8):
+    if(dizi[i][1]!="Şubat"):
          sum=sum+dizi[i][2]
          count +=1
 print("Tüm yılların Ocak - Mart Ortalaması: ",sum/count)
+
+# Cevap 4
+
+sum20=0 
+sum22=0
+count20=0
+count22=0
+print(dizi[1][0])
+for i in range(len(dizi)):
+    if(dizi[i][1]!="Şubat"):
+         if(dizi[i][0]==2020):
+             sum20=sum20+dizi[i][2]
+             count20 +=1
+         elif(dizi[i][0]==2022):
+             sum22=sum22+dizi[i][2]
+             count22 +=1
+print("2020 yılı Ocak-Mart ortalaması",sum20/count20)
+print("2022 yılı Ocak-Mart ortalaması",sum22/count22)             
+         
+   
