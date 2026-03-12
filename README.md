@@ -6,4 +6,4 @@
 2021  380  470  350
 2022  350  450  750 
 
-için Satış tablosundaki en düşük ve en yüksek tutarlar ve bunların hangi ay ve yıl gerçekleştiğini bulan, tablodaki tutarların ortalamasını gösteren, 2020-22 Ocak ve Mart aylarına ait ortalamaları gösteren, 2020-22 arasındaki tüm yılların Ocak-Mart ortalamalarını gösteren python kodunu yazınız.
+için Satış tablosundaki en düşük ve en yüksek tutarlar ve bunların hangi ay ve yıl gerçekleştiğini bulan, tablodaki tutarların ortalamasını gösteren, 2020-22 Ocak ve Mart aylarına ait ortalamaları gösteren, 2020-22 arasındaki tüm yılların Ocak-Mart ortalamalarını gösteren python kodu implemente edilmiştir.
