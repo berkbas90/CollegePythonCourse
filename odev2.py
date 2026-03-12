@@ -13,7 +13,6 @@ for i in range(len(dizi)):
 
 tmp.sort()
 
-print(tmp)
 
 for j in range(len(dizi)):
     if(dizi[j][2]==tmp[0]):
@@ -45,12 +44,12 @@ print("Tüm yılların Ocak - Mart Ortalaması: ",sum/count)
 # Cevap 4
 
 sum21=0 
-count=0
+count21=0
 sum20=0 
 sum22=0
 count20=0
 count22=0
-print(dizi[1][0])
+
 for i in range(len(dizi)):
     if(dizi[i][1]!="Şubat"):
          if(dizi[i][0]==2020):
