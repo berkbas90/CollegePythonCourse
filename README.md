@@ -8,3 +8,5 @@
 için Satış tablosundaki en düşük ve en yüksek tutarlar ve bunların hangi ay ve yıl gerçekleştiğini bulan, tablodaki tutarların ortalamasını gösteren, 2020-22 Ocak ve Mart aylarına ait ortalamaları gösteren, 2020-22 arasındaki tüm yılların Ocak-Mart ortalamalarını gösteren python kodu implemente edilmiştir.
 
 3- Ödev 3'de ödev2'de implemente edilen problem numpy dizileri ile implemente edilmiştir.
+
+Örnek ile başlayan uygulamalarda ise bir excel dosyasından okunan veriler üzerinde, kendi oluşturduğum veriler üzerinde, bir api aracılığıyla çektiğim döviz kuru verileri üzerinde ve numpy random ile oluşturduğum veriler üzerinde matplotlib ve seaborn ile oluşturulmuş kutu grafikleri (boxplot) mevcuttur.
